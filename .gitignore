@@ -1,0 +1,3 @@
+src/Nancy.TestDrive/bin/**
+src/Nancy.TestDrive/obj/**
+src/Nancy.TestDrive/**/*.csproj.user
