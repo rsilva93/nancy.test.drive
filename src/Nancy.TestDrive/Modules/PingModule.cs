@@ -5,7 +5,6 @@
         public PingModule()
         {
             Get("/api/ping", x => "pong");
-            Get("/api/echo/{value}", x => x.value);
         }
     }
 }
